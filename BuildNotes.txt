@@ -1,0 +1,10 @@
+Basic 2 Design Coded by Bryan Paronto, Edited by Ian Wright
+
+Minimum Required File Manifest:
+
+customHomePage.master
+MasterPageConfiguration.xml
+HomePage.ascx
+custom.css
+images/  (dir)
+images/slides (dir)
